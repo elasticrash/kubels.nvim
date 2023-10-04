@@ -1,7 +1,9 @@
 # kubels
 ## Description
 
-This is a really basic plugin that I wrote for telescope. This is mostly to see how I can write a useful plugin in telescope and get a little bit familiar with lua.
+This is a really basic Kubernetes plugin that I wrote for telescope.
+
+This is mostly to see how I can write a useful plugin in telescope and get a little bit familiar with lua.
 
 It doesn't do much. 
 
